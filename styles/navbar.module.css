@@ -1,0 +1,14 @@
+.navbar{
+    margin:0;
+    display: flex;
+}
+
+.bg{
+    background-color: rgb(252, 60, 1);
+    color:#fff;
+}
+
+.bg li{
+    margin:5px 50px 10px 0;
+    list-style-type: none;
+}

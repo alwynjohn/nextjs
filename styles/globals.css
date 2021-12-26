@@ -14,3 +14,19 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h1{
+  color: rgb(235, 3, 3);
+}
+
+.header,.footer{
+  background-color: #f00;
+  color:#fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header > h1,.footer > h1{
+  color: #fff;
+}
